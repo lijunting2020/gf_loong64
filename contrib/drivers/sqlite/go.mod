@@ -1,6 +1,6 @@
 module github.com/gogf/gf/contrib/drivers/sqlite/v2
 
-go 1.25.0
+go 1.23.0
 
 require (
 	github.com/glebarez/go-sqlite v1.21.2
